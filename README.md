@@ -2,7 +2,7 @@
 Predicting house prices in districts of California
 # Features:
 
-longitude: geographic coordinate (district´s east-west position)
+longitude: geographic coordinate (district´s east-west position)__
 latitude: geographic coordinate (district´s north-south position)
 housing_median_age: median age of houses in district
 total_rooms Sum of all rooms in district
